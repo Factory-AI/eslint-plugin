@@ -1,0 +1,27 @@
+'use strict';
+
+module.exports = {
+  'no-exported-string-union-types': require('./no-exported-string-union-types/index'),
+  'structured-logging': require('./structured-logging/index'),
+  'enum-file-organization': require('./enum-file-organization/index'),
+  'types-file-organization': require('./types-file-organization/index'),
+  'constants-file-organization': require('./constants-file-organization/index'),
+  'errors-file-organization': require('./errors-file-organization/index'),
+  'test-utils-organization': require('./test-utils-organization/index'),
+  'test-file-location': require('./test-file-location/index'),
+  'no-exported-function-expressions': require('./no-exported-function-expressions/index'),
+  'jest-mock-absolute-paths': require('./jest-mock-absolute-paths/index'),
+  'no-unstable-mock-module': require('./no-unstable-mock-module/index'),
+  'jest-mock-require-actual': require('./jest-mock-require-actual/index'),
+  'require-test-files': require('./require-test-files/index'),
+  'require-tsx-test-stories-files': require('./require-tsx-test-stories-files/index'),
+  'require-route-middleware': require('./require-route-middleware/index'),
+  'require-v0-route-handle-middleware': require('./require-v0-route-handle-middleware/index'),
+  'require-v0-strict-schemas': require('./require-v0-strict-schemas/index'),
+  'no-log-exception-with-throw': require('./no-log-exception-with-throw/index'),
+  'filename-match-export': require('./filename-match-export/index'),
+  'restrict-tsx-components': require('./restrict-tsx-components/index'),
+  'no-dynamic-styled-components': require('./no-dynamic-styled-components/index'),
+  'no-plain-html-text-elements': require('./no-plain-html-text-elements/index'),
+  'no-use-effect-in-hooks': require('./no-use-effect-in-hooks/index'),
+};
