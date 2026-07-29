@@ -9,7 +9,7 @@
   "devDependencies": {
     "@factory/eslint-plugin": "file:../..",
     "@types/react": "^18.2.0",
-    "eslint": "^8.57.0",
+    "eslint": "^10.0.0",
     "react": "^18.2.0",
     "typescript": "^5.4.0"
   }
