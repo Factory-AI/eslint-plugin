@@ -69,8 +69,8 @@
     "eslint-plugin-unused-imports": "^4.1.4"
   },
   "devDependencies": {
-    "eslint": ">=8.0.0",
-    "jest": "^30.2.0"
+    "eslint": ">=10.0.0",
+    "jest": "^30.5.0"
   },
   "peerDependencies": {
     "eslint": ">=8.0.0",
